@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tsc --watch"
+  },
+  "keywords": [],
+  "author": "Nataliya Lisjö",
+  "license": "ISC",
+  "description": " Movieflix typescript",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
