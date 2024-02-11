@@ -1,4 +1,4 @@
-# REST API
+#  -- taking data  from Api :  https://api.themoviedb.org
 ====================================
 Steg 1.
 ####  Öppna upp   "Terminal" fönstret i VSCode och skriv in följande kommando:
