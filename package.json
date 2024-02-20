@@ -1,11 +1,14 @@
 {
+  "mode": "production",
   "devDependencies": {
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "webpack-cli": "^5.1.4"
   },
   "name": "src",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "dev": "npx tsc --watch"
   },
   "keywords": [],
@@ -14,5 +17,13 @@
   "description": " Movieflix typescript",
   "dependencies": {
     "json-server": "^0.17.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natlee77/MovieFlix-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/natlee77/MovieFlix-ts/issues"
+  },
+  "homepage": "https://github.com/natlee77/MovieFlix-ts#readme"
 }
