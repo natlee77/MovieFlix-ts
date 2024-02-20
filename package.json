@@ -1,12 +1,11 @@
 {
-  "mode": "production",
   "devDependencies": {
     "typescript": "^5.3.3",
     "webpack-cli": "^5.1.4"
   },
   "name": "src",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "webpack",
     "dev": "npx tsc --watch"
